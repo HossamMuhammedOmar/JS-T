@@ -1,2 +1,2 @@
-# JS T
+# JS-T
 JavaScript Trainings
