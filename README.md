@@ -1,2 +1,2 @@
-# JS-T
-JavaScript Trainings
+# JavaScript Practice
+NO PROJECTS!
